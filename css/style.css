@@ -1,0 +1,312 @@
+@font-face {
+  font-family: 'PoppinsRegular';
+  src: url("../fonts/PoppinsRegular.eot");
+  src: url("../fonts/PoppinsRegular.eot") format("embedded-opentype"), url("../fonts/PoppinsRegular.woff2") format("woff2"), url("../fonts/PoppinsRegular.woff") format("woff"), url("../fonts/PoppinsRegular.ttf") format("truetype"), url("../fonts/PoppinsRegular.svg#PoppinsRegular") format("svg"); }
+@font-face {
+  font-family: 'PoppinsExtraBold';
+  src: url("../fonts/PoppinsExtraBold.eot");
+  src: url("../fonts/PoppinsExtraBold.eot") format("embedded-opentype"), url("../fonts/PoppinsExtraBold.woff2") format("woff2"), url("../fonts/PoppinsExtraBold.woff") format("woff"), url("../fonts/PoppinsExtraBold.ttf") format("truetype"), url("../fonts/PoppinsExtraBold.svg#PoppinsExtraBold") format("svg"); }
+@font-face {
+  font-family: 'PoppinsBold';
+  src: url("../fonts/PoppinsBold.eot");
+  src: url("../fonts/PoppinsBold.eot") format("embedded-opentype"), url("../fonts/PoppinsBold.woff2") format("woff2"), url("../fonts/PoppinsBold.woff") format("woff"), url("../fonts/PoppinsBold.ttf") format("truetype"), url("../fonts/PoppinsBold.svg#PoppinsBold") format("svg"); }
+@font-face {
+  font-family: 'PoppinsSemiBold';
+  src: url("../fonts/PoppinsSemiBold.eot");
+  src: url("../fonts/PoppinsSemiBold.eot") format("embedded-opentype"), url("../fonts/PoppinsSemiBold.woff2") format("woff2"), url("../fonts/PoppinsSemiBold.woff") format("woff"), url("../fonts/PoppinsSemiBold.ttf") format("truetype"), url("../fonts/PoppinsSemiBold.svg#PoppinsSemiBold") format("svg"); }
+* {
+  font-family: "PoppinsRegular", serif; }
+
+:root {
+  --warning: #ffce76!important;
+  --danger: #74dc0f;
+  --dark: #181817; }
+
+.bg-warning {
+  background-color: #ffce76 !important; }
+
+.bg-dark {
+  background-color: #181817 !important; }
+
+.text-warning {
+  color: #ffce76 !important; }
+
+html {
+  font-size: 15px !important; }
+
+.highlight {
+  transition: 0.3s;
+  border-bottom: 4px solid var(--warning);
+  position: absolute;
+  top: 42px;
+  left: 0;
+  z-index: 1;
+  display: block; }
+  @media screen and (max-width: 1199px) {
+    .highlight {
+      top: 34px; } }
+  @media screen and (max-width: 767px) {
+    .highlight {
+      display: none; } }
+
+.container {
+  width: 100%; }
+  @media screen and (min-width: 1200px) {
+    .container {
+      max-width: 1200px !important;
+      width: 100%; } }
+
+header {
+  padding-bottom: 4px; }
+  header .container {
+    position: relative; }
+    header .container .row .logo {
+      outline: none; }
+      @media screen and (max-width: 767px) {
+        header .container .row .logo img {
+          width: 110px; } }
+    @media screen and (max-width: 767px) {
+      header .container .row .navbar {
+        position: absolute;
+        top: 41px;
+        z-index: 1;
+        padding: 0;
+        background-color: rgba(0, 0, 0, 0.6);
+        width: 100%; } }
+    header .container .row .navbar .navbar-toggler {
+      padding: 10px;
+      color: white;
+      outline: none;
+      position: absolute;
+      left: 5px;
+      top: -45px;
+      margin-top: 5px; }
+    @media screen and (min-width: 1200px) {
+      header .container .row .navbar .navbar-nav {
+        margin-left: 55px !important; } }
+    @media screen and (min-width: 1200px) {
+      header .container .row .navbar .navbar-nav .nav-item:first-child .nav-link {
+        margin-left: 0 !important; }
+      header .container .row .navbar .navbar-nav .nav-item:last-child .nav-link {
+        margin-left: 15px !important;
+        margin-right: 0 !important; } }
+    header .container .row .navbar .navbar-nav .nav-item .nav-link {
+      font: 14px "PoppinsRegular";
+      letter-spacing: 2px;
+      color: #fefefe !important; }
+      @media screen and (min-width: 1200px) {
+        header .container .row .navbar .navbar-nav .nav-item .nav-link {
+          margin-right: 29px !important;
+          margin-left: 29px !important; } }
+      @media screen and (max-width: 767px) {
+        header .container .row .navbar .navbar-nav .nav-item .nav-link {
+          padding-left: 15px !important;
+          font-size: 12px;
+          margin: 8px 0; } }
+    @media screen and (min-width: 1200px) {
+      header .container .row .head_social {
+        margin-right: 15px !important; } }
+    @media screen and (max-width: 991px) {
+      header .container .row .head_social {
+        position: absolute;
+        top: 10px;
+        right: 10px; } }
+    header .container .row .head_social a {
+      font-size: 20px;
+      line-height: 20px;
+      color: #fefefe !important;
+      transition: 0.3s; }
+      @media screen and (max-width: 991px) {
+        header .container .row .head_social a {
+          font-size: 16px;
+          line-height: 16px; } }
+      @media screen and (max-width: 767px) {
+        header .container .row .head_social a {
+          font-size: 14px;
+          line-height: 14px; } }
+      header .container .row .head_social a:hover {
+        text-decoration: none;
+        transform: scale(1.1);
+        transition: 0.3s; }
+        header .container .row .head_social a:hover:nth-child(2) {
+          color: #ff1841 !important; }
+
+.banner .slideshow {
+  width: 100%;
+  height: 880px;
+  position: relative;
+  overflow: hidden; }
+  @media screen and (max-width: 1199px) {
+    .banner .slideshow {
+      height: 800px; } }
+  @media screen and (max-width: 991px) {
+    .banner .slideshow {
+      height: 700px; } }
+  @media screen and (max-width: 767px) {
+    .banner .slideshow {
+      height: 600px; } }
+  @media screen and (max-width: 575px) {
+    .banner .slideshow {
+      height: 500px; } }
+  .banner .slideshow .slides .slide {
+    opacity: 0;
+    pointer-events: none; }
+    .banner .slideshow .slides .slide .slide__img {
+      top: 0;
+      left: 0;
+      background-size: cover !important;
+      background-position: 50% 50% !important; }
+      .banner .slideshow .slides .slide .slide__img img {
+        width: 100%; }
+        @media screen and (max-width: 767px) {
+          .banner .slideshow .slides .slide .slide__img img {
+            width: auto !important;
+            height: 100% !important;
+            position: absolute;
+            right: 0; } }
+    .banner .slideshow .slides .slide .slide_descript {
+      margin-left: 13%; }
+      @media screen and (max-width: 991px) {
+        .banner .slideshow .slides .slide .slide_descript {
+          width: 70%;
+          margin: auto; } }
+      @media screen and (max-width: 575px) {
+        .banner .slideshow .slides .slide .slide_descript {
+          width: 80%;
+          display: flex;
+          flex-direction: column;
+          align-content: center;
+          align-items: center; } }
+      .banner .slideshow .slides .slide .slide_descript .slide__title {
+        position: relative;
+        font: 25px/35px 'PoppinsRegular';
+        cursor: default;
+        line-height: 1;
+        margin: 0 0 0 84px; }
+        @media screen and (max-width: 767px) {
+          .banner .slideshow .slides .slide .slide_descript .slide__title {
+            font-size: 18px;
+            margin-left: 40px; } }
+        @media screen and (max-width: 575px) {
+          .banner .slideshow .slides .slide .slide_descript .slide__title {
+            font-size: 16px; } }
+        .banner .slideshow .slides .slide .slide_descript .slide__title:before {
+          position: absolute;
+          top: 10px;
+          left: -84px;
+          content: "";
+          width: 63px;
+          height: 5px;
+          display: block;
+          background-color: var(--warning); }
+          @media screen and (max-width: 767px) {
+            .banner .slideshow .slides .slide .slide_descript .slide__title:before {
+              width: 30px;
+              height: 3px;
+              top: 8px;
+              left: -40px; } }
+        .banner .slideshow .slides .slide .slide_descript .slide__title span {
+          font-family: 'PoppinsSemiBold', serif;
+          color: var(--warning); }
+      .banner .slideshow .slides .slide .slide_descript .slide__desc {
+        width: 40%;
+        position: relative;
+        font: 60px/70px 'PoppinsBold';
+        letter-spacing: 1.5px;
+        cursor: default;
+        margin: 50px 0 0 0; }
+        @media screen and (max-width: 1199px) {
+          .banner .slideshow .slides .slide .slide_descript .slide__desc {
+            width: 70%; } }
+        @media screen and (max-width: 991px) {
+          .banner .slideshow .slides .slide .slide_descript .slide__desc {
+            width: 100%; } }
+        @media screen and (max-width: 767px) {
+          .banner .slideshow .slides .slide .slide_descript .slide__desc {
+            font-size: 45px;
+            line-height: 55px;
+            margin-top: 25px; } }
+        @media screen and (max-width: 575px) {
+          .banner .slideshow .slides .slide .slide_descript .slide__desc {
+            font-size: 35px;
+            line-height: 40px;
+            text-align: center; } }
+  .banner .slideshow .slides .slide--current {
+    opacity: 1;
+    pointer-events: auto; }
+  .banner .slideshow .slidenav {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center; }
+    .banner .slideshow .slidenav .slidenav__item {
+      font-size: 20px;
+      line-height: 70px;
+      width: 70px;
+      color: white;
+      border: solid 1px #707577;
+      border-radius: 35px;
+      background: none; }
+      @media screen and (max-width: 991px) {
+        .banner .slideshow .slidenav .slidenav__item {
+          width: 52px;
+          line-height: 50px;
+          border-radius: 25px; } }
+      @media screen and (max-width: 767px) {
+        .banner .slideshow .slidenav .slidenav__item {
+          width: auto;
+          border: none; } }
+      .banner .slideshow .slidenav .slidenav__item:focus {
+        outline: none; }
+      .banner .slideshow .slidenav .slidenav__item:hover {
+        cursor: pointer; }
+    .banner .slideshow .slidenav .slidenav__item--prev {
+      position: absolute;
+      left: 40px;
+      top: 47%; }
+      @media screen and (max-width: 575px) {
+        .banner .slideshow .slidenav .slidenav__item--prev {
+          left: 5px; } }
+    .banner .slideshow .slidenav .slidenav__item--next {
+      position: absolute;
+      right: 40px;
+      top: 47%; }
+      @media screen and (max-width: 575px) {
+        .banner .slideshow .slidenav .slidenav__item--next {
+          right: 5px; } }
+  .banner .slideshow .shape {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    fill: var(--color-shape-fill);
+    top: 0;
+    pointer-events: none; }
+
+.why_chose_us .wcu_headline h2 {
+  font: 40px "PoppinsSemiBold";
+  padding-top: 85px !important; }
+.why_chose_us .wcu_headline .split {
+  position: relative;
+  width: 39%;
+  margin: 10px auto 95px; }
+  .why_chose_us .wcu_headline .split .split_line {
+    width: 45%;
+    height: 1px;
+    background-color: #5e5e5d; }
+  .why_chose_us .wcu_headline .split .split_rhombus {
+    width: 8px;
+    height: 8px;
+    transform: rotate(45deg);
+    margin-top: -5px; }
+.why_chose_us .wcu_decript h3 {
+  font: 20px/20px 'PoppinsSemiBold';
+  letter-spacing: 2px;
+  margin-bottom: 20px; }
+.why_chose_us .wcu_decript p {
+  font-size: 14px;
+  line-height: 21px; }
+.why_chose_us .wcu_decript .wcu_image {
+  transform: scale(1.1); }
+
+/*# sourceMappingURL=style.css.map */

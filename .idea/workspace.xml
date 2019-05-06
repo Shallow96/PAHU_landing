@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84b37ab5-fbe7-48ce-a702-3372dc436381" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1514501399">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="5" />
+          <entry key="html" value="2" />
+          <entry key="scss" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="5" />
+          <entry key="HTML" value="2" />
+          <entry key="SCSS" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="73" />
+          <entry key="scss" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="73" />
+          <entry key="SCSS" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-556059358">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="30" />
+          <entry key="html" value="14" />
+          <entry key="js" value="21" />
+          <entry key="scss" value="8" />
+          <entry key="svg" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="30" />
+          <entry key="HTML" value="14" />
+          <entry key="JavaScript" value="21" />
+          <entry key="SCSS" value="8" />
+          <entry key="SVG" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="113" />
+          <entry key="html" value="2485" />
+          <entry key="js" value="362" />
+          <entry key="scss" value="2323" />
+          <entry key="svg" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="113" />
+          <entry key="HTML" value="2485" />
+          <entry key="JavaScript" value="362" />
+          <entry key="SCSS" value="2323" />
+          <entry key="SVG" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="334" column="5" lean-forward="true" selection-start-line="323" selection-start-column="3" selection-end-line="334" selection-end-column="5" />
+              <folding>
+                <element signature="e#403#2809#0" />
+                <element signature="e#2818#6959#0" />
+                <element signature="e#7002#7075#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/fonts_vars.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+              <folding>
+                <element signature="e#12#396#0" />
+                <element signature="e#409#809#0" />
+                <element signature="e#822#1182#0" />
+                <element signature="e#1195#1587#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Personal_Blog_Template/bootstrap-4.3.1-dist/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="18" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>html</find>
+      <find>cli</find>
+      <find>click</find>
+      <find>mouseover</find>
+      <find>butto</find>
+      <find>navbar-toggler</find>
+      <find>fas</find>
+      <find>au</find>
+      <find>overf</find>
+      <find>auto</find>
+      <find>000</find>
+      <find>swiper-slide</find>
+      <find>`</find>
+      <find>pater</find>
+      <find>js</find>
+      <find>titl</find>
+      <find>shape</find>
+      <find>\n\n\/\*body \{\*\/\n\	\/\*font\-family\: \-apple\-system\, BlinkMacSystemFont\, \&quot;Segoe UI\&quot;\, Helvetica\, Arial\, sans\-serif\;\*\/\n\	\/\*min\-height\: 100vh\;\*\/\n\	\/\*color\: \#57585c\;\*\/\n\	\/\*color\: var\(\-\-color\-text\)\;\*\/\n\	\/\*background\-color\: \#fff\;\*\/\n\	\/\*background\-color\: var\(\-\-color\-bg\)\;\*\/\n\	\/\*\-webkit\-font\-smoothing\: antialiased\;\*\/\n\	\/\*\-moz\-osx\-font\-smoothing\: grayscale\;\*\/\n\/\*\}\*\/\n</find>
+      <find>shap</find>
+      <find>37</find>
+      <find>text</find>
+      <find>prima</find>
+      <find>danger</find>
+      <find>split</find>
+      <find>bg-da</find>
+      <find>features center</find>
+      <find>features</find>
+      <find>hr</find>
+      <find>yell</find>
+      <find>yellow</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>warning</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="D:/Downloads/Personal_Blog_Template-master (5)/Personal_Blog_Template-master/bootstrap-4.3.1-dist/css/bootstrap-reboot.min.css" />
+        <option value="D:/Downloads/Personal_Blog_Template-master (5)/Personal_Blog_Template-master/bootstrap-4.3.1-dist/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/PoppinsRegular.css" />
+        <option value="D:/LemonSchool/home/Creativa/index.html" />
+        <option value="$PROJECT_DIR$/../Эффекты/LineMenuStyles/LineMenuStyles/js/clipboard.min.js" />
+        <option value="$PROJECT_DIR$/../Эффекты/LineMenuStyles/LineMenuStyles/js/modernizr.custom.js" />
+        <option value="$PROJECT_DIR$/../Эффекты/LineMenuStyles/LineMenuStyles/index.html" />
+        <option value="$PROJECT_DIR$/../Эффекты/javascript30-day-22-follow-along-links310818/index.html" />
+        <option value="$PROJECT_DIR$/../Эффекты/javascript30-day-22-follow-along-links310818/js/index.js" />
+        <option value="$PROJECT_DIR$/../Эффекты/javascript30-day-22-follow-along-links310818/css/style.css" />
+        <option value="$PROJECT_DIR$/images/svg/like.svg" />
+        <option value="$PROJECT_DIR$/images/svg/loupe.svg" />
+        <option value="$PROJECT_DIR$/images/svg/shopping-cart.svg" />
+        <option value="C:/Temp/Rar$DIa0.110/style.css" />
+        <option value="$PROJECT_DIR$/../Эффекты/horizontal-parallax-sliding-slider-with-swiper-js180118/css/style.css" />
+        <option value="$PROJECT_DIR$/../Эффекты/horizontal-parallax-sliding-slider-with-swiper-js180118/index.html" />
+        <option value="$PROJECT_DIR$/../Эффекты/horizontal-parallax-sliding-slider-with-swiper-js180118/js/index.js" />
+        <option value="$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow/AnimatedFrameSlideshow/js/imagesloaded.pkgd.min.js" />
+        <option value="$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow/AnimatedFrameSlideshow/js/demo.js" />
+        <option value="$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow/AnimatedFrameSlideshow/js/demo1.js" />
+        <option value="$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow/AnimatedFrameSlideshow/css/base.css" />
+        <option value="$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow/AnimatedFrameSlideshow/index.html" />
+        <option value="$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow — копия/AnimatedFrameSlideshow/pater/pater.css" />
+        <option value="$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow — копия/AnimatedFrameSlideshow/index.html" />
+        <option value="$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow — копия/AnimatedFrameSlideshow/css/base.css" />
+        <option value="$PROJECT_DIR$/js/demo1.js" />
+        <option value="$PROJECT_DIR$/css/icomoon.css" />
+        <option value="$PROJECT_DIR$/PoppinsExtraBold.css" />
+        <option value="$PROJECT_DIR$/PoppinsBold.css" />
+        <option value="$PROJECT_DIR$/PoppinsSemiBold.css" />
+        <option value="$PROJECT_DIR$/js/slider.js" />
+        <option value="$PROJECT_DIR$/js/scripts.js" />
+        <option value="$PROJECT_DIR$/../Personal_Blog_Template/bootstrap-4.3.1-dist/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
+        <option value="D:/Downloads/pahu-master/pahu-master/index.html" />
+        <option value="$PROJECT_DIR$/css/fonts_vars.scss" />
+        <option value="$PROJECT_DIR$/css/style.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-30" />
+    <option name="y" value="115" />
+    <option name="width" value="1235" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PAHU" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PAHU" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PAHU" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PAHU" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PAHU" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PAHU" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../new team" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84b37ab5-fbe7-48ce-a702-3372dc436381" name="Default Changelist" comment="" />
+      <created>1556802808884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556802808884</updated>
+      <workItem from="1556802810308" duration="1562000" />
+      <workItem from="1556804816345" duration="4316000" />
+      <workItem from="1556820827321" duration="4941000" />
+      <workItem from="1556866615994" duration="22665000" />
+      <workItem from="1556896388631" duration="25170000" />
+      <workItem from="1556954726970" duration="6059000" />
+      <workItem from="1556961164907" duration="1617000" />
+      <workItem from="1556989362172" duration="504000" />
+      <workItem from="1557124133601" duration="10891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="77725000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19315404" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295964" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PoppinsRegular.css" />
+    <entry file="file://$PROJECT_DIR$/../Personal_Blog_Template/css/oleg_style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="67" column="1" selection-start-line="61" selection-end-line="67" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/LineMenuStyles/LineMenuStyles/js/modernizr.custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4750" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/LineMenuStyles/LineMenuStyles/js/clipboard.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2226">
+          <caret line="197" column="95" selection-start-line="197" selection-start-column="90" selection-end-line="197" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/LineMenuStyles/LineMenuStyles/js/classie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-500" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/LineMenuStyles/LineMenuStyles/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="479" column="24" selection-start-line="479" selection-start-column="24" selection-end-line="479" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/javascript30-day-22-follow-along-links310818/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-end-line="24" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/javascript30-day-22-follow-along-links310818/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/javascript30-day-22-follow-along-links310818/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/svg/shopping-cart.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/svg/loupe.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://C:/Temp/Rar$DIa0.592/style.css" />
+    <entry file="file://C:/Temp/Rar$DIa0.918/demo.js" />
+    <entry file="file://C:/Temp/Rar$DIa0.110/style.css" />
+    <entry file="file://C:/Temp/Rar$DIa0.305/style.css" />
+    <entry file="file://$PROJECT_DIR$/fontawesome-free-5.4.1-web/css/all.css" />
+    <entry file="file://$PROJECT_DIR$/style.css" />
+    <entry file="file://$PROJECT_DIR$/images/svg/like.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/horizontal-parallax-sliding-slider-with-swiper-js180118/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/horizontal-parallax-sliding-slider-with-swiper-js180118/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/horizontal-parallax-sliding-slider-with-swiper-js180118/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow/AnimatedFrameSlideshow/js/imagesloaded.pkgd.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow/AnimatedFrameSlideshow/js/anime.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow/AnimatedFrameSlideshow/js/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" lean-forward="true" selection-start-line="10" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow/AnimatedFrameSlideshow/pater/pater.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow/AnimatedFrameSlideshow/js/demo1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2298">
+          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow/AnimatedFrameSlideshow/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1294">
+          <caret line="100" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow — копия/AnimatedFrameSlideshow/pater/pater.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="102" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow/AnimatedFrameSlideshow/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="39" column="43" selection-start-line="37" selection-start-column="8" selection-end-line="39" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icomoon (6)/style.css" />
+    <entry file="file://$PROJECT_DIR$/css/icomoon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow — копия/AnimatedFrameSlideshow/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="34" column="55" lean-forward="true" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PoppinsExtraBold.css" />
+    <entry file="file://$PROJECT_DIR$/PoppinsBold.css" />
+    <entry file="file://$PROJECT_DIR$/PoppinsSemiBold.css" />
+    <entry file="file://$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow — копия/AnimatedFrameSlideshow/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="63" column="24" lean-forward="true" selection-start-line="59" selection-start-column="4" selection-end-line="63" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/slider.js" />
+    <entry file="file://$PROJECT_DIR$/../bootstrap-4.3.1/bootstrap-4.3.1/scss/bootstrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-406" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Personal_Blog_Template/bootstrap-4.3.1-dist/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Personal_Blog_Template/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Personal_Blog_Template/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/LemonSchool/home/Creativa/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="179" column="14" lean-forward="true" selection-start-line="177" selection-start-column="8" selection-end-line="179" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4458">
+          <caret line="193" column="1" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="193" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/LemonSchool/home/Creativa/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="794">
+          <caret line="777" column="5" selection-start-line="753" selection-start-column="4" selection-end-line="777" selection-end-column="5" />
+          <folding>
+            <element signature="e#13803#14372#0" />
+            <element signature="e#19010#19628#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Downloads/pahu-master/pahu-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="794">
+          <caret line="44" column="49" lean-forward="true" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Downloads/pahu-master/pahu-master/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="794">
+          <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Personal_Blog_Template/bootstrap-4.3.1-dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="18" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/fonts_vars.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+          <folding>
+            <element signature="e#12#396#0" />
+            <element signature="e#409#809#0" />
+            <element signature="e#822#1182#0" />
+            <element signature="e#1195#1587#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="334" column="5" lean-forward="true" selection-start-line="323" selection-start-column="3" selection-end-line="334" selection-end-column="5" />
+          <folding>
+            <element signature="e#403#2809#0" />
+            <element signature="e#2818#6959#0" />
+            <element signature="e#7002#7075#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,80 @@
+
+@font-face {
+  font-family: 'PoppinsRegular';
+  src: url('../fonts/PoppinsRegular.eot');
+  src: url('../fonts/PoppinsRegular.eot') format('embedded-opentype'),
+  url('../fonts/PoppinsRegular.woff2') format('woff2'),
+  url('../fonts/PoppinsRegular.woff') format('woff'),
+  url('../fonts/PoppinsRegular.ttf') format('truetype'),
+  url('../fonts/PoppinsRegular.svg#PoppinsRegular') format('svg');
+}
+
+@font-face {
+  font-family: 'PoppinsExtraBold';
+  src: url('../fonts/PoppinsExtraBold.eot');
+  src: url('../fonts/PoppinsExtraBold.eot') format('embedded-opentype'),
+  url('../fonts/PoppinsExtraBold.woff2') format('woff2'),
+  url('../fonts/PoppinsExtraBold.woff') format('woff'),
+  url('../fonts/PoppinsExtraBold.ttf') format('truetype'),
+  url('../fonts/PoppinsExtraBold.svg#PoppinsExtraBold') format('svg');
+}
+
+@font-face {
+  font-family: 'PoppinsBold';
+  src: url('../fonts/PoppinsBold.eot');
+  src: url('../fonts/PoppinsBold.eot') format('embedded-opentype'),
+  url('../fonts/PoppinsBold.woff2') format('woff2'),
+  url('../fonts/PoppinsBold.woff') format('woff'),
+  url('../fonts/PoppinsBold.ttf') format('truetype'),
+  url('../fonts/PoppinsBold.svg#PoppinsBold') format('svg');
+}
+
+@font-face {
+  font-family: 'PoppinsSemiBold';
+  src: url('../fonts/PoppinsSemiBold.eot');
+  src: url('../fonts/PoppinsSemiBold.eot') format('embedded-opentype'),
+  url('../fonts/PoppinsSemiBold.woff2') format('woff2'),
+  url('../fonts/PoppinsSemiBold.woff') format('woff'),
+  url('../fonts/PoppinsSemiBold.ttf') format('truetype'),
+  url('../fonts/PoppinsSemiBold.svg#PoppinsSemiBold') format('svg');
+}
+
+*{
+  font-family: "PoppinsRegular", serif;
+}
+
+:root{
+  --warning: #ffce76!important;
+  --danger: #74dc0f;
+  --dark: #181817;
+}
+
+.bg-warning{
+  background-color: #ffce76!important;
+}
+
+.bg-dark{
+  background-color: #181817 !important;
+}
+
+
+.text-warning{
+  color: #ffce76!important;
+}
+
+html{
+  font-size: 15px!important;
+}
+
+
+
+@mixin min-screen($res){
+  @media screen and (min-width: $res) {
+    @content;
+  }
+}
+@mixin max-screen($res){
+  @media screen and (max-width: $res) {
+    @content;
+  }
+}
