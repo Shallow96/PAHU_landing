@@ -45,8 +45,10 @@
 
 :root{
   --warning: #ffce76!important;
-  --danger: #74dc0f;
-  --dark: #181817;
+  --danger: #74dc0f!important;
+  --dark: #181817!important;
+  --yellow: #ffce76 !important;
+  --secondary: #a8a8a7 !important;
 }
 
 .bg-warning{
@@ -57,14 +59,46 @@
   background-color: #181817 !important;
 }
 
+.bg-light {
+  background-color: #f9fafc !important;
+}
+
+.bg-danger {
+  background-color: #fd402c !important;
+}
+
 
 .text-warning{
   color: #ffce76!important;
 }
 
+.text-success{
+  color: #749d26!important;
+}
+
+
+.text-secondary {
+  color: #a8a8a7 !important;
+}
+
+
+.text-info{
+  color: #599ba7!important;
+}
+
+.border-warning {
+  border-color: #a38550 !important;
+}
+
+.border-secondary {
+  border-color: #636363 !important;
+}
+
+
 html{
   font-size: 15px!important;
 }
+
 
 
 
@@ -78,3 +112,32 @@ html{
     @content;
   }
 }
+
+@mixin placeholder {
+  &::-webkit-input-placeholder { @content; }
+  &:-moz-placeholder           { @content; }
+  &::-moz-placeholder          { @content; }
+  &:-ms-input-placeholder      { @content; }
+}
+
+
+@include min-screen(992px){
+  @keyframes letter-space{
+    0% {letter-spacing: 5px;}
+    50% {letter-spacing: 15px;}
+    100% {letter-spacing: 5px;}
+  }
+}
+
+
+.container{
+  width: 100%;
+  @include min-screen(1200px){
+    max-width: 1200px!important;
+    width: 100%;
+  }
+}
+
+
+
+

@@ -157,18 +157,36 @@ triggers.forEach(a => a.addEventListener('focus', highlightLink));
                     anime({
                         targets: newSlideImg,
                         duration: 3500,
-                        easing: 'easeOutElastic',
+                        specialEasing: {
+                            width: "easeInOutBack",
+                            height: "easeOutElastic"
+                        },
                         translateX: [dir === 'next' ? 400 : -200, 0],
-                        // translateY: [dir === 'next' ? 400 : -200, 0]
+                        translateY: [dir === 'next' ? 100 : -100, 0]
                     });
 
                     anime({
-                        targets: [newSlide.querySelector('.slide__title'), newSlide.querySelector('.slide__desc')],
-                        duration: this.settings.animation.slides.duration*5,
-                        easing: 'easeInOutBack',
+                        targets: [newSlide.querySelector('.slide__title')],
+                        duration: this.settings.animation.slides.duration*6,
+                        specialEasing: {
+                            width: "easeOutElastic",
+                            height: "easeInOutBack"
+                        },
                         delay: (t,i) => i*300+200,
-                        translateX: [dir === 'next' ? 900 : -900,0],
+                        translateX: [dir === 'next' ? 900 : -900, 0],
                         translateY: [dir === 'next' ? -100 : -100,0],
+                        opacity: [0,1]
+                    });
+                    anime({
+                        targets: [ newSlide.querySelector('.slide__desc')],
+                        duration: this.settings.animation.slides.duration*9,
+                        specialEasing: {
+                            width: "easeInOutBack",
+                            height: "easeOutElastic"
+                        },
+                        delay: (t,i) => i*300+300,
+                        translateX: [dir === 'next' ? 900 : -300,0],
+                        translateY: [dir === 'next' ? 100 : 100, 0],
                         opacity: [0,1]
                     });
                 });
@@ -177,9 +195,9 @@ triggers.forEach(a => a.addEventListener('focus', highlightLink));
             const animateShapeOut = () => {
                 anime({
                     targets: this.DOM.shape,
-                    duration: this.settings.animation.shape.duration,
-                    delay: 150,
-                    easing: this.settings.animation.shape.easing.out,
+                    duration: this.settings.animation.shape.duration*2,
+                    delay: 350,
+                    easing: "easeInOutBack",
                     d: this.paths.initial,
                     complete: () => this.isAnimating = false
                 });
@@ -193,3 +211,6 @@ triggers.forEach(a => a.addEventListener('focus', highlightLink));
     imagesLoaded('.slide__img', { background: true }, () => document.body.classList.remove('loading'));
 }
 ////////////...Slider-end
+
+
+
