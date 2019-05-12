@@ -1,4 +1,4 @@
-////////////////...Menu-hover
+////////////////...Menu-hover...../////////////////////////////////////////////////////////////////
 const triggers = document.querySelectorAll('.nav-link');
 const highlight = document.createElement('span');
 highlight.classList.add('highlight');
@@ -20,9 +20,9 @@ function highlightLink() {
 }
 triggers.forEach(a => a.addEventListener('mouseenter', highlightLink));
 triggers.forEach(a => a.addEventListener('focus', highlightLink));
-////////////////...Menu-hover-end
+////////////////...Menu-hover-end...../////////////////////////////////////////////////////////////////
 
-////////////////...Slider
+////////////////...Slider.....///////////////////////////////////////////////////////////////////////
 {
     function debounce(func, wait, immediate) {
         var timeout;
@@ -210,7 +210,17 @@ triggers.forEach(a => a.addEventListener('focus', highlightLink));
     new Slideshow(document.querySelector('.slideshow'));
     imagesLoaded('.slide__img', { background: true }, () => document.body.classList.remove('loading'));
 }
-////////////...Slider-end
+////////////...Slider-end...../////////////////////////////////////////////////////////////////
 
-
-
+////////////...WOW-effect...../////////////////////////////////////////////////////////////////
+wow = new WOW(
+    {
+        boxClass:     'wow',
+        animateClass: 'animated',
+        offset:       50,
+        mobile:       true,
+        live:         true
+    }
+)
+wow.init()
+////////////....WOW-effect-end...../////////////////////////////////////////////////////////////////

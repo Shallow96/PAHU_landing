@@ -72,7 +72,6 @@ header{
                 @include min-screen(1200px){
                   margin-right: 29px!important;
                   margin-left: 29px!important;
-
                 }
                 @include max-screen(767px){
                   padding-left: 15px!important;
@@ -83,6 +82,7 @@ header{
               &:nth-child(1){
                 animation-name: nav_ft1;
                 animation-duration: 1s;
+
               }
               &:nth-child(2){
                 animation-name: nav_ft1;
