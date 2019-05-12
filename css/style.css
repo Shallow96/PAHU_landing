@@ -57,6 +57,79 @@
 html {
   font-size: 15px !important; }
 
+.container {
+  width: 100%; }
+  @media screen and (min-width: 1200px) {
+    .container {
+      max-width: 1200px !important;
+      width: 100%; } }
+
+@font-face {
+  font-family: 'PoppinsRegular';
+  src: url("../fonts/PoppinsRegular.eot");
+  src: url("../fonts/PoppinsRegular.eot") format("embedded-opentype"), url("../fonts/PoppinsRegular.woff2") format("woff2"), url("../fonts/PoppinsRegular.woff") format("woff"), url("../fonts/PoppinsRegular.ttf") format("truetype"), url("../fonts/PoppinsRegular.svg#PoppinsRegular") format("svg"); }
+@font-face {
+  font-family: 'PoppinsExtraBold';
+  src: url("../fonts/PoppinsExtraBold.eot");
+  src: url("../fonts/PoppinsExtraBold.eot") format("embedded-opentype"), url("../fonts/PoppinsExtraBold.woff2") format("woff2"), url("../fonts/PoppinsExtraBold.woff") format("woff"), url("../fonts/PoppinsExtraBold.ttf") format("truetype"), url("../fonts/PoppinsExtraBold.svg#PoppinsExtraBold") format("svg"); }
+@font-face {
+  font-family: 'PoppinsBold';
+  src: url("../fonts/PoppinsBold.eot");
+  src: url("../fonts/PoppinsBold.eot") format("embedded-opentype"), url("../fonts/PoppinsBold.woff2") format("woff2"), url("../fonts/PoppinsBold.woff") format("woff"), url("../fonts/PoppinsBold.ttf") format("truetype"), url("../fonts/PoppinsBold.svg#PoppinsBold") format("svg"); }
+@font-face {
+  font-family: 'PoppinsSemiBold';
+  src: url("../fonts/PoppinsSemiBold.eot");
+  src: url("../fonts/PoppinsSemiBold.eot") format("embedded-opentype"), url("../fonts/PoppinsSemiBold.woff2") format("woff2"), url("../fonts/PoppinsSemiBold.woff") format("woff"), url("../fonts/PoppinsSemiBold.ttf") format("truetype"), url("../fonts/PoppinsSemiBold.svg#PoppinsSemiBold") format("svg"); }
+* {
+  font-family: "PoppinsRegular", serif; }
+
+:root {
+  --warning: #ffce76!important;
+  --danger: #74dc0f!important;
+  --dark: #181817!important;
+  --yellow: #ffce76 !important;
+  --secondary: #a8a8a7 !important; }
+
+.bg-warning {
+  background-color: #ffce76 !important; }
+
+.bg-dark {
+  background-color: #181817 !important; }
+
+.bg-light {
+  background-color: #f9fafc !important; }
+
+.bg-danger {
+  background-color: #fd402c !important; }
+
+.text-warning {
+  color: #ffce76 !important; }
+
+.text-success {
+  color: #749d26 !important; }
+
+.text-secondary {
+  color: #a8a8a7 !important; }
+
+.text-info {
+  color: #599ba7 !important; }
+
+.border-warning {
+  border-color: #a38550 !important; }
+
+.border-secondary {
+  border-color: #636363 !important; }
+
+html {
+  font-size: 15px !important; }
+
+.container {
+  width: 100%; }
+  @media screen and (min-width: 1200px) {
+    .container {
+      max-width: 1200px !important;
+      width: 100%; } }
+
 @media screen and (min-width: 992px) {
   @keyframes letter-space {
     0% {
@@ -65,13 +138,36 @@ html {
       letter-spacing: 15px; }
     100% {
       letter-spacing: 5px; } } }
-.container {
-  width: 100%; }
-  @media screen and (min-width: 1200px) {
-    .container {
-      max-width: 1200px !important;
-      width: 100%; } }
-
+@media screen and (min-width: 768px) {
+  @keyframes nav_ft1 {
+    0% {
+      opacity: 0; }
+    30% {
+      opacity: 0; }
+    100% {
+      opacity: 1; } } }
+@keyframes scale {
+  0% {
+    transform: scale(0); }
+  25% {
+    transform: scale(0, 5); }
+  50% {
+    transform: scale(1); }
+  50% {
+    transform: scale(1.25); }
+  100% {
+    transform: scale(1); } }
+@keyframes scale_1 {
+  0% {
+    transform: scale(0); }
+  25% {
+    transform: scale(0); }
+  50% {
+    transform: scale(0, 5); }
+  75% {
+    transform: scale(1.25); }
+  100% {
+    transform: scale(1); } }
 .highlight {
   transition: 0.3s;
   border-bottom: 4px solid var(--warning);
@@ -92,7 +188,9 @@ header {
   header .container {
     position: relative; }
     header .container .row .logo {
-      max-width: 220px !important; }
+      max-width: 220px !important;
+      animation-name: scale;
+      animation-duration: 1s; }
       header .container .row .logo a {
         outline: none; }
       @media screen and (max-width: 767px) {
@@ -133,6 +231,24 @@ header {
           padding-left: 15px !important;
           font-size: 12px;
           margin: 8px 0; } }
+    header .container .row .navbar .navbar-content .navbar-nav .nav-item:nth-child(1) {
+      animation-name: nav_ft1;
+      animation-duration: 1s; }
+    header .container .row .navbar .navbar-content .navbar-nav .nav-item:nth-child(2) {
+      animation-name: nav_ft1;
+      animation-duration: 1.2s; }
+    header .container .row .navbar .navbar-content .navbar-nav .nav-item:nth-child(3) {
+      animation-name: nav_ft1;
+      animation-duration: 1.4s; }
+    header .container .row .navbar .navbar-content .navbar-nav .nav-item:nth-child(4) {
+      animation-name: nav_ft1;
+      animation-duration: 1.6s; }
+    header .container .row .navbar .navbar-content .navbar-nav .nav-item:nth-child(5) {
+      animation-name: nav_ft1;
+      animation-duration: 1.8s; }
+    header .container .row .navbar .navbar-content .navbar-nav .nav-item:nth-child(6) {
+      animation-name: nav_ft1;
+      animation-duration: 2s; }
     header .container .row .head_social {
       max-width: 130px !important; }
       @media screen and (min-width: 1200px) {
@@ -211,7 +327,10 @@ header {
         font: 25px/35px 'PoppinsRegular';
         cursor: default;
         line-height: 1;
-        margin: 0 0 0 84px; }
+        margin: 0 0 0 84px;
+        animation-name: scale_1;
+        animation-duration: 2s;
+        animation-timing-function: ease, cubic-bezier(0.05, 1.48, 0.94, 0.24); }
         @media screen and (max-width: 767px) {
           .banner .slideshow .slides .slide .slide_descript .slide__title {
             font-size: 18px;
@@ -243,7 +362,10 @@ header {
         font: 60px/70px 'PoppinsBold';
         letter-spacing: 1.5px;
         cursor: default;
-        margin: 50px 0 0 0; }
+        margin: 50px 0 0 0;
+        animation-name: scale_1;
+        animation-duration: 2.5s;
+        animation-timing-function: linear; }
         @media screen and (max-width: 1199px) {
           .banner .slideshow .slides .slide .slide_descript .slide__desc {
             width: 70%; } }

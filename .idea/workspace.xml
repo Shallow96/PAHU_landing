@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84b37ab5-fbe7-48ce-a702-3372dc436381" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/user.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/user.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/fonts_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/fonts_vars.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/icomoon.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/icomoon.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/chair.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/chair.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider_bg_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slider_bg_2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,49 +55,50 @@
     <session id="-556059358">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="6" />
           <entry key="project.open.time.8" value="7" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="57" />
-          <entry key="html" value="36" />
-          <entry key="js" value="56" />
-          <entry key="scss" value="20" />
+          <entry key="css" value="59" />
+          <entry key="html" value="40" />
+          <entry key="js" value="67" />
+          <entry key="scss" value="24" />
           <entry key="svg" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="57" />
-          <entry key="HTML" value="36" />
-          <entry key="JavaScript" value="56" />
-          <entry key="SCSS" value="20" />
+          <entry key="CSS" value="59" />
+          <entry key="HTML" value="40" />
+          <entry key="JavaScript" value="67" />
+          <entry key="SCSS" value="24" />
           <entry key="SVG" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="138" />
-          <entry key="html" value="7402" />
+          <entry key="html" value="7477" />
           <entry key="js" value="744" />
-          <entry key="scss" value="7549" />
+          <entry key="scss" value="7881" />
           <entry key="svg" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="138" />
-          <entry key="HTML" value="7402" />
+          <entry key="HTML" value="7477" />
           <entry key="JavaScript" value="744" />
-          <entry key="SCSS" value="7549" />
+          <entry key="SCSS" value="7881" />
           <entry key="SVG" value="12" />
         </counts>
       </usages-collector>
@@ -116,12 +109,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-200">
-              <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+            <state relative-caret-position="225">
+              <caret line="85" column="55" selection-start-line="85" selection-start-column="55" selection-end-line="85" selection-end-column="55" />
               <folding>
-                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" />
@@ -155,43 +148,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1206">
-              <caret line="915" column="9" lean-forward="true" selection-start-line="915" selection-start-column="9" selection-end-line="915" selection-end-column="9" />
+            <state relative-caret-position="359">
+              <caret line="210" column="14" selection-start-line="210" selection-start-column="14" selection-end-line="210" selection-end-column="14" />
               <folding>
-                <element signature="e#404#2879#0" />
-                <element signature="e#2888#7096#0" />
-                <element signature="e#7111#8598#0" />
-                <element signature="e#8608#10156#0" />
-                <element signature="e#10365#11197#0" />
-                <element signature="e#13422#14184#0" />
-                <element signature="e#23668#23690#0" />
+                <element signature="e#289#2797#0" />
+                <element signature="e#1123#1393#0" />
+                <element signature="e#1417#1895#0" />
+                <element signature="e#4344#4775#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/fonts_vars.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2419">
-              <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
-              <folding>
-                <element signature="e#409#809#0" />
-                <element signature="e#822#1182#0" />
-                <element signature="e#1195#1587#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Personal_Blog_Template/css/oleg_style.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="67" column="1" lean-forward="true" selection-start-line="61" selection-end-line="67" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -199,26 +166,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Personal_Blog_Template/bootstrap-4.3.1-dist/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="8185" column="5" selection-start-line="8185" selection-start-column="1" selection-end-line="8185" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../src/WOW.js/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Downloads/akad-master (2)/akad-master/css/animate.css">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="271">
-              <caret line="397" column="10" selection-start-line="397" selection-start-column="1" selection-end-line="397" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Эффекты/ui-box/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Эффекты/ui-box/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2075">
-              <caret line="83" column="20" lean-forward="true" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
+              <caret line="1474" column="9" selection-start-line="1474" selection-start-column="1" selection-end-line="1474" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -227,9 +194,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>card-img-top</find>
-      <find>headl</find>
-      <find>slide_descript</find>
       <find>border-wa</find>
       <find>solid</find>
       <find>quick-links</find>
@@ -254,9 +218,12 @@
       <find>box-shadow: no</find>
       <find>outline: no</find>
       <find>outline: 0</find>
-      <find>display-1</find>
       <find>view</find>
       <find>viewb</find>
+      <find>display-1</find>
+      <find>py-5</find>
+      <find>wow</find>
+      <find>fadeinle</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -270,11 +237,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/images/svg/shopping-cart.svg" />
-        <option value="C:/Temp/Rar$DIa0.110/style.css" />
-        <option value="$PROJECT_DIR$/../Эффекты/horizontal-parallax-sliding-slider-with-swiper-js180118/css/style.css" />
-        <option value="$PROJECT_DIR$/../Эффекты/horizontal-parallax-sliding-slider-with-swiper-js180118/index.html" />
-        <option value="$PROJECT_DIR$/../Эффекты/horizontal-parallax-sliding-slider-with-swiper-js180118/js/index.js" />
         <option value="$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow/AnimatedFrameSlideshow/js/imagesloaded.pkgd.min.js" />
         <option value="$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow/AnimatedFrameSlideshow/js/demo.js" />
         <option value="$PROJECT_DIR$/../Эффекты/AnimatedFrameSlideshow/AnimatedFrameSlideshow/js/demo1.js" />
@@ -305,7 +267,6 @@
         <option value="D:/LemonSchool/home/owl-lesson/js/script.js" />
         <option value="D:/LemonSchool/home/owl-lesson/css/style.css" />
         <option value="D:/LemonSchool/home/Roll over effects/css/style.scss" />
-        <option value="D:/LemonSchool/home/Creativa/index.html" />
         <option value="$PROJECT_DIR$/../Personal_Blog_Template/bootstrap-4.3.1-dist/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/../Эффекты/viewer-master/viewer-master/docs/index.html" />
         <option value="$PROJECT_DIR$/js/owl.carousel.js" />
@@ -318,9 +279,15 @@
         <option value="$PROJECT_DIR$/../Эффекты/ui-box/index.html" />
         <option value="$PROJECT_DIR$/../Эффекты/ui-box/css/style.css" />
         <option value="$PROJECT_DIR$/../Эффекты/cool-text-effect/css/style.css" />
+        <option value="D:/LemonSchool/home/Creativa/index.html" />
+        <option value="D:/LemonSchool/home/Luis Oenrique/index.html" />
+        <option value="D:/Downloads/akad-master (2)/akad-master/index.html" />
+        <option value="$PROJECT_DIR$/css/animation.scss" />
         <option value="$PROJECT_DIR$/css/fonts_vars.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.scss" />
+        <option value="C:/Temp/Rar$DIa0.508/wow.min.js" />
+        <option value="$PROJECT_DIR$/../src/WOW.js/index.html" />
       </list>
     </option>
   </component>
@@ -342,7 +309,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -364,6 +330,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -413,18 +380,18 @@
       <workItem from="1557507043567" duration="15502000" />
       <workItem from="1557564459546" duration="7897000" />
       <workItem from="1557572557595" duration="5889000" />
-      <workItem from="1557588372641" duration="11395000" />
+      <workItem from="1557588372641" duration="13343000" />
+      <workItem from="1557653381344" duration="7834000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="213005000" />
+    <option name="totallyTimeSpent" value="222787000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2176039" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2200489" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -453,87 +420,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../team_project/js/script_top.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../team_project/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="7" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../team_project/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="60" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Эффекты/coolcarousel/jquery.carouFredSel-6.1.0-packed.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Temp/Rar$DRa0.442/coolcarousel.html" />
-    <entry file="file://C:/Temp/Rar$DRa0.882/Bootstrap_PAHU-master/index.html" />
-    <entry file="file://$PROJECT_DIR$/../Эффекты/Слайдер (2)/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2050">
-          <caret line="82" column="12" lean-forward="true" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Эффекты/Слайдер (2)/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-250">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Эффекты/coolcarousel/coolcarousel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../team_project/css/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4617" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../team_project/css/blog.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="173" column="6" selection-start-line="173" selection-start-column="6" selection-end-line="173" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Temp/Rar$DIa0.398/style.css" />
-    <entry file="file://D:/LemonSchool/home/owl-lesson/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="65" column="30" lean-forward="true" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/LemonSchool/home/Roll over effects/css/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="447" column="6" selection-start-line="447" selection-start-column="6" selection-end-line="447" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/LemonSchool/home/owl-lesson/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-631">
-          <caret line="143" selection-start-line="143" selection-end-line="143" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/LemonSchool/home/owl-lesson/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -603,13 +489,6 @@
     <entry file="file://D:/Downloads/Telegram Desktop/scrollflow.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://D:/LemonSchool/home/Creativa/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="218" column="46" selection-start-line="218" selection-start-column="22" selection-end-line="218" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Temp/Rar$DIa0.238/methods.js" />
     <entry file="file://D:/Downloads/eskju-jquery-scrollflow-master/eskju-jquery-scrollflow-master/js/eskju.jquery.scrollflow.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -632,13 +511,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/icomoon (9)/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="694">
-          <caret line="62" lean-forward="true" selection-start-line="25" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/icomoon (9)/style.css" />
     <entry file="file://$PROJECT_DIR$/css/icomoon.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1194">
@@ -657,20 +530,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Эффекты/ui-box/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Эффекты/ui-box/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2075">
-          <caret line="83" column="20" lean-forward="true" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Эффекты/cool-text-effect/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -681,21 +540,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Personal_Blog_Template/bootstrap-4.3.1-dist/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="397" column="10" selection-start-line="397" selection-start-column="1" selection-end-line="397" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery-2.2.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/js/anime.min.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -718,17 +564,126 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/LemonSchool/home/Luis Oenrique/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/LemonSchool/home/Creativa/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Downloads/akad-master (2)/akad-master/css/mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/ui-box/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Эффекты/ui-box/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="83" column="20" lean-forward="true" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Downloads/akad-master (2)/akad-master/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6456">
+          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Personal_Blog_Template/css/oleg_style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="67" column="1" lean-forward="true" selection-start-line="61" selection-end-line="67" selection-end-column="1" />
+        <state relative-caret-position="250">
+          <caret line="67" column="1" selection-start-line="61" selection-end-line="67" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Downloads/akad-master (2)/akad-master/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1931" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Downloads/akad-master (2)/akad-master/js/scrollflow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-875" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Temp/Rar$DIa0.764/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Temp/Rar$DIa0.925/scroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-250" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Temp/Rar$DIa0.509/wow.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Temp/Rar$DIa0.508/wow.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2500">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Downloads/akad-master (2)/akad-master/js/wow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5229">
+          <caret line="208" column="11" selection-start-line="208" selection-start-column="8" selection-end-line="208" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Temp/Rar$DIa0.787/particles.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/animation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="27" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Downloads/akad-master (2)/akad-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="794">
+          <caret line="469" column="31" lean-forward="true" selection-start-line="469" selection-start-column="31" selection-end-line="469" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Personal_Blog_Template/bootstrap-4.3.1-dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="8185" column="5" selection-start-line="8185" selection-start-column="1" selection-end-line="8185" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/fonts_vars.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2419">
-          <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
+        <state relative-caret-position="250">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
           <folding>
             <element signature="e#409#809#0" />
             <element signature="e#822#1182#0" />
@@ -737,14 +692,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="210" column="14" selection-start-line="210" selection-start-column="14" selection-end-line="210" selection-end-column="14" />
+          <folding>
+            <element signature="e#289#2797#0" />
+            <element signature="e#1123#1393#0" />
+            <element signature="e#1417#1895#0" />
+            <element signature="e#4344#4775#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-200">
-          <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        <state relative-caret-position="225">
+          <caret line="85" column="55" selection-start-line="85" selection-start-column="55" selection-end-line="85" selection-end-column="55" />
           <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" />
@@ -777,19 +745,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.scss">
+    <entry file="file://D:/Downloads/akad-master (2)/akad-master/css/animate.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1206">
-          <caret line="915" column="9" lean-forward="true" selection-start-line="915" selection-start-column="9" selection-end-line="915" selection-end-column="9" />
-          <folding>
-            <element signature="e#404#2879#0" />
-            <element signature="e#2888#7096#0" />
-            <element signature="e#7111#8598#0" />
-            <element signature="e#8608#10156#0" />
-            <element signature="e#10365#11197#0" />
-            <element signature="e#13422#14184#0" />
-            <element signature="e#23668#23690#0" />
-          </folding>
+        <state relative-caret-position="271">
+          <caret line="1474" column="9" selection-start-line="1474" selection-start-column="1" selection-end-line="1474" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/WOW.js/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
         </state>
       </provider>
     </entry>

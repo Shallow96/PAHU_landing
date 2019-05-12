@@ -1,4 +1,5 @@
 @import "fonts_vars";
+@import "animation";
 
 .highlight {
   transition: 0.3s;
@@ -23,6 +24,8 @@ header{
     .row{
       .logo{
         max-width: 220px!important;
+        animation-name: scale;
+        animation-duration: 1s;
         a{
           outline: none;
         }
@@ -76,6 +79,30 @@ header{
                   font-size: 12px;
                   margin: 8px 0;
                 }
+              }
+              &:nth-child(1){
+                animation-name: nav_ft1;
+                animation-duration: 1s;
+              }
+              &:nth-child(2){
+                animation-name: nav_ft1;
+                animation-duration: 1.2s;
+              }
+              &:nth-child(3){
+                animation-name: nav_ft1;
+                animation-duration: 1.4s;
+              }
+              &:nth-child(4){
+                animation-name: nav_ft1;
+                animation-duration: 1.6s;
+              }
+              &:nth-child(5){
+                animation-name: nav_ft1;
+                animation-duration: 1.8s;
+              }
+              &:nth-child(6){
+                animation-name: nav_ft1;
+                animation-duration: 2s;
               }
             }
           }
@@ -171,6 +198,9 @@ header{
             cursor: default;
             line-height: 1;
             margin: 0 0 0 84px;
+            animation-name: scale_1;
+            animation-duration: 2s;
+            animation-timing-function: ease, cubic-bezier(.05,1.48,.94,.24);
             @include max-screen(767px){
               font-size: 18px;
               margin-left: 40px;
@@ -206,6 +236,9 @@ header{
             letter-spacing: 1.5px;
             cursor: default;
             margin: 50px 0 0 0;
+            animation-name: scale_1;
+            animation-duration: 2.5s;
+            animation-timing-function: linear;
             @include max-screen(1199px){
               width: 70%;
             }

@@ -120,14 +120,14 @@ html{
   &:-ms-input-placeholder      { @content; }
 }
 
-
-@include min-screen(992px){
-  @keyframes letter-space{
-    0% {letter-spacing: 5px;}
-    50% {letter-spacing: 15px;}
-    100% {letter-spacing: 5px;}
-  }
-}
+//
+//@include min-screen(992px){
+//  @keyframes letter-space{
+//    0% {letter-spacing: 5px;}
+//    50% {letter-spacing: 15px;}
+//    100% {letter-spacing: 5px;}
+//  }
+//}
 
 
 .container{
